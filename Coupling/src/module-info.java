@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author TeraKaal
+ *
+ */
+module Coupling {
+}
